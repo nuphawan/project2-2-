@@ -1,0 +1,9 @@
+body {
+    background-image: url("/public/images/pic8.jpg");
+}
+.jumbotron {
+    font-family: 'Mogra', cursive;
+    background-image: url("/public/images/pic7.jpg");
+    color: black;  
+}
+

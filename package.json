@@ -1,0 +1,27 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "config.js": "^0.1.0",
+    "config.json": "^0.0.4",
+    "express": "^4.17.1",
+    "json": "^9.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuphawan/Project2.git"
+  },
+  "author": "Nuphawan Champanuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuphawan/Project2/issues"
+  },
+  "homepage": "https://github.com/nuphawan/Project2#readme"
+}
