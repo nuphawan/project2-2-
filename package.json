@@ -7,7 +7,7 @@
     "config.js": "^0.1.0",
     "config.json": "^0.0.4",
     "express": "^4.17.1",
-    "json": "^9.0.6"
+    "json": "^10.0.0"
   },
   "devDependencies": {},
   "scripts": {
